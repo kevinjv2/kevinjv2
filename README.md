@@ -47,7 +47,6 @@ I'm Kevin, a passionate Software Engineering student 💻.
 &nbsp;
 <span><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" title="Notion" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
 
 <br>
 <br>
