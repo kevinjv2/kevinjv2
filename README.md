@@ -58,16 +58,16 @@ I'm Kevin, a passionate Software Engineering student 💻.
 🤝 &nbsp; Connect with Me
 
 <div align="center">
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="https://www.linkedin.com/in/kevin2028/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/profile.php?id=100083293865768" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/keviin_jacobs/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:kevinramonjacobosanchez@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
 </a>
 <br/>
