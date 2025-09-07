@@ -15,7 +15,7 @@ I'm Kevin, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about C    PYTHON    JAVA.
+- :seedling: I’m currently learning about C    PYTHON    .
 - :computer: Outside tech, 💜I love movies about space, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
