@@ -43,23 +43,23 @@ I'm Kevin Jacobo 💻
   </br>
   <h3>Backend & Core</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width="60px"
-    alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+  width="50px"
+  alt="Java">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  width="60px"
+  width="50px"
   alt="Python">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-  width="60px"
+  width="50px"
   alt="Spring (Spring-boot)">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-  width="60px"
+  width="50px"
   alt="PHP">
   &nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -68,23 +68,23 @@ I'm Kevin Jacobo 💻
   <h3>Frontend & UI</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="60px"
+    width="45px"
     alt="Javascript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-  width="60px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  width="45px"
   alt="HTML5">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-  width="60px"
-  alt="css3">
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  width="45px"
+  alt="CSS3">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-  width="60px"
+  width="50px"
   alt="Bootstrap">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,39 +99,39 @@ I'm Kevin Jacobo 💻
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  width="60px"
+  width="45px"
   alt="Git">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  width="60px"
+  width="45px"
   alt="PostgreSQL">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  width="60px"
+  width="45px"
   alt="MySQL">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <br>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
-    width="60px"
-    alt="Trello">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+  width="45px"
+  alt="Trello">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  width="60px"
+  width="45px"
   alt="VS Code">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
-    width="60px"
+    width="45px"
     alt="IntelliJ">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
-  width="60px"
+  width="45px"
   alt="Blender">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
