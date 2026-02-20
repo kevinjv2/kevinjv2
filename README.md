@@ -12,7 +12,7 @@ _Software Engineering Student & Junior Developer_
 
 
 
-<!-- TODO: Add last video link -->
+
 ```
 
 I'm Kevin Jacobo 💻
