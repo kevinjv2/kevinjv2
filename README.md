@@ -20,7 +20,7 @@ I'm Kevin Jacobo 💻
 🎓 Software Engineering Student at the University of Colima
 📝 Passionate about Data Science and Artificial Intelligence
 🌱 Currently exploring Neural Networks and AI applications
-💻 Main programming languages: Python and Java
+💻 Main programming languages: C++, Python and Java
 🚀 Interested in Full Stack Machine Learning Application Development
 🎵 Music lover: Hip Hop, Lo-fi, Classic, and Soft music
 ```
@@ -53,15 +53,11 @@ I'm Kevin Jacobo 💻
   alt="Python">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
   width="50px"
-  alt="Spring (Spring-boot)">
+  alt="C++">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-  width="50px"
-  alt="PHP">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
  
   <!-- Frameworks -->
   </br>
@@ -82,11 +78,7 @@ I'm Kevin Jacobo 💻
   width="45px"
   alt="CSS3">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-  width="50px"
-  alt="Bootstrap">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
 
 
   <!-- Storages -->
@@ -103,11 +95,6 @@ I'm Kevin Jacobo 💻
   alt="Git">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  width="45px"
-  alt="PostgreSQL">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
   width="45px"
   alt="MySQL">
@@ -115,27 +102,16 @@ I'm Kevin Jacobo 💻
 
   <br>
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
-  width="45px"
-  alt="Trello">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
   width="45px"
   alt="VS Code">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
-    width="45px"
-    alt="IntelliJ">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
   width="45px"
   alt="Blender">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  
 </div>
 
 </br>
