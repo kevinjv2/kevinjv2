@@ -1,3 +1,5 @@
+
+
 <div align="center">
 	
 ```diff
@@ -88,7 +90,7 @@ and Analytics.
 </td>
 </tr>
 </table>
-
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 ---
 
 ## 🎯 Current Focus
