@@ -108,7 +108,6 @@ Currently Learning:
 → Apache Airflow
 → Databricks
 → ETL Concepts
-→ Azure Data Services
 → AWS Data Services
 ```
 
